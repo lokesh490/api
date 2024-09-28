@@ -21,9 +21,6 @@ header {
     background-color: #2f3640;
 }
 
-.logo img {
-    height: 40px;
-}
 
 .links {
     display: flex;
